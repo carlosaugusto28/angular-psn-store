@@ -1,3 +1,12 @@
+Réplica da PSN Store feita em angular com intuito educativo sendo instruído pelos professor do bootcamp Full Stack DIO.
+
+Site para consulta: https://angular-psn-store-three.vercel.app
+
+#Tela inicial e final
+![1698523437532](https://github.com/carlosaugusto28/angular-psn-store/assets/109244715/96a5fe25-2082-47bc-b41b-d95ac6384615)
+
+
+
 # Store
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
